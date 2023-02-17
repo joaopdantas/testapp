@@ -10,4 +10,5 @@ class MainActivity : AppCompatActivity() {
     }
     //changed something
     //something from funcionalidade1
+    //something changed from github
 }
